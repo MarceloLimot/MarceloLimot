@@ -6,7 +6,7 @@
 
 ![MarceloLimot GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloLimot&show_icons=true&theme=dark&locale=pt-br&hide=issues,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimot&layout=compact&theme=dark&locale=pt-br)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimot&layout=compact&theme=dark&locale=pt-br)
 
 ### Tecnologias que estou utilizando:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
