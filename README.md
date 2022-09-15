@@ -6,12 +6,13 @@
 
 ![MarceloLimot GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloLimot&show_icons=true&theme=dark&locale=pt-br&hide=issues,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimot&layout=compact&theme=dark&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimot&layout=compact&theme=dark&locale=pt-br)]
 
 ### Tecnologias que estou utilizando:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
