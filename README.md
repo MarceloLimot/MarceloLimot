@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Marcelo Limot 🕹️🖥️✏️
 
 
-Sou estudante da faculdade Univesp no curso de Bacharelado em Tecnologia da Informação. <br>
+Formado na Univesp no curso de Bacharelado em Tecnologia da Informação. <br>
+Busco oportunidade para iniciar no mundo do Desnevolvimento Web. <br>
 Apaixonado por tecnologia, games, livros e séries.<br> 
 
 #### Algumas das minhas redes sociais:
