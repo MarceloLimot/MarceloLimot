@@ -2,7 +2,7 @@
 
 
 Formado na Univesp no curso de Bacharelado em Tecnologia da Informação. <br>
-Busco oportunidade para iniciar no mundo do Desnevolvimento Web. <br>
+Busco oportunidade para iniciar no mundo do Desenvolvimento Web. <br>
 Apaixonado por tecnologia, games, livros e séries.<br> 
 
 #### Algumas das minhas redes sociais:
