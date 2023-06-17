@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Marcelo Limot 🕹️🖥️✏️
 
+![HarmoniousUnknownAfghanhound-max-1mb](https://github.com/MarceloLimot/MarceloLimot/assets/75061977/b1dd767c-e135-46d2-8120-594273d29465)
 
-Formado na Univesp no curso de Bacharelado em Tecnologia da Informação. <br>
+Formado em 2022 na Univesp no curso de Bacharelado em Tecnologia da Informação. <br>
 Busco oportunidade para iniciar no mundo do Desenvolvimento Web. <br>
 Apaixonado por tecnologia, games, livros e séries.<br> 
 
