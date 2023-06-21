@@ -30,3 +30,9 @@ Apaixonado por tecnologia, games, livros e séries.<br>
 ### Contato:
 - marcelolimot@gmail.com <br>
 - 11 99182-6089
+
+<hr>
+
+### Projetos no GitHub Pages:
+
+- Blog Angular: [Star Wars Blog](https://marcelolimot.github.io/angular-blog/)
