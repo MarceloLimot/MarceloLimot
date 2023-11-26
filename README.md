@@ -37,3 +37,4 @@ Apaixonado por tecnologia, games, livros e séries.<br>
 ### Projetos no GitHub Pages:
 
 - Blog Angular: [Star Wars Blog](https://marcelolimot.github.io/angular-blog/)
+- Pokedex em Javascript: [Pokedex](https://marcelolimot.github.io/pokedex/)
