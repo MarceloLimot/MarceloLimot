@@ -41,3 +41,4 @@ Apaixonado por tecnologia, games, livros e séries.<br>
 
 - Blog Angular: [Star Wars Blog](https://marcelolimot.github.io/angular-blog/)
 - Pokedex em Javascript: [Pokedex](https://marcelolimot.github.io/pokedex/)
+- PSN Store em Angular: [PSN Store](https://marcelolimot.github.io/psn-store/)
