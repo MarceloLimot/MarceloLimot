@@ -13,8 +13,7 @@ Apaixonado por tecnologia, games, livros e séries.<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-neto-dos-santos/)
 <hr>
 
-![MarceloLimot GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloLimot&show_icons=true&theme=dark&locale=pt-br&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimot&layout=compact&theme=dark&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimot&layout=donut-vertical&theme=highcontrast)
 <hr>
 
 ### Tecnologias que estou utilizando:
